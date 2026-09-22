@@ -1,0 +1,11 @@
+.ToolBarMenu {
+    background-image: url(../../../../ToolBar/Toolbackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ToolBarMenu_right {
+    background-image: url(../../../../ToolBar/Toolbackground.png);
+    background-repeat: no-repeat ;
+    background-size: cover ;
+}
